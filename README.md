@@ -25,3 +25,10 @@
   ```
   docker-compose up 
   ```
+
+# Comparison between Airflow and Step Functions
+- [ ] [DAG](https://airflow.apache.org/docs/apache-airflow/stable/concepts/dags.html) vs State machine
+- [ ] Python vs Json
+- [ ] Logs
+- [ ] Graph
+- [ ] Passing arguments between steps
